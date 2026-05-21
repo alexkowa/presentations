@@ -3,6 +3,7 @@ A collection of presentatinos at different occations by Alexander Kowarik
 
 - [Q2026](Q2026/q_vimpute_Kowarik.pdf): Flexible machine-learning-based imputation with options for sequential imputation and predictive mean matching. vimpute()
 - [Q2026](Q2026/STATRevision_Thomas_Glaser.pdf): STATRevision - A Shiny Application for Revision Analysis
+- [Q2026](Q2026/Beyond_DCAT_Six.jpg): Beyond DCAT: Metadata Needs for Statistical Data
 
 
 - [4thWorkshopISTAT](Fourth-Workshop-on-Methodologies-for-Official-Statistics/2025_12_ISTAT_Methodology_Kowarik.pdf): Open-Source Software implementing Statistical Methods for Official Statistics
