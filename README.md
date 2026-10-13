@@ -1,6 +1,10 @@
 # presentations
 A collection of presentatinos at different occations by Alexander Kowarik
 
+- [uRos2026](uRos2026/vimpute_kowarik_nodup.pdf): VIM::vimpute: A Unified Imputation Engine for Flexible Missing Data Workflows in R
+- [UNECE SDE 2026](UNECE_SDE_2026/vimpute_kowarik.pdf): The new vimpute() Function in R Package VIM and its Imputation Quality
+
+
 - [Q2026](Q2026/q_vimpute_Kowarik.pdf): Flexible machine-learning-based imputation with options for sequential imputation and predictive mean matching. vimpute()
 - [Q2026](Q2026/STATRevision_Thomas_Glaser.pdf): STATRevision - A Shiny Application for Revision Analysis
 - [Q2026](Q2026/Beyond_DCAT_Six.jpg): Beyond DCAT: Metadata Needs for Statistical Data
