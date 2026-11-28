@@ -1,7 +1,7 @@
 # presentations
 A collection of presentatinos at different occations by Alexander Kowarik
 
-- [uRos2026](spanishR/kowarik_spanishR_2026_11.pdf): From Methodological Innovation to Statistical Production: The strategic role of R
+- [spanishR](spanishR/kowarik_spanishR_2026_11.pdf): From Methodological Innovation to Statistical Production: The strategic role of R
 
 - [uRos2026](uRos2026/vimpute_kowarik_nodup.pdf): VIM::vimpute: A Unified Imputation Engine for Flexible Missing Data Workflows in R
 - [UNECE SDE 2026](UNECE_SDE_2026/vimpute_kowarik.pdf): The new vimpute() Function in R Package VIM and its Imputation Quality
